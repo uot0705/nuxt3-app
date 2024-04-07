@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const pages = ["2024-03-23", "2024-03-30"];
+const pages = ["2024-03-23", "2024-03-30", "2024-04-07"];
 </script>
 <template>
   <div>
